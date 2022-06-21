@@ -1,6 +1,8 @@
 ![Header](https://github.com/chealbee/chealbee/blob/main/assets/1500x500.jpg)
 
-## Я фронтенд девелопер
+## About me
+
+Привіт мене звати Захар, я займаюсь фронтенд розробкою
 
 ### Laguages and Tools
 
@@ -22,3 +24,5 @@ Social networks
 
 [![instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/d10_brando_/)
 [![twitter](https://img.shields.io/badge/-twitter-000000?style=for-the-badge&logo=twitter)](https://twitter.com/_DI0_BRAND0_)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chealbee&layout=compact)
